@@ -1,0 +1,16 @@
+H:\Documents\编程\VisualStudio\RC4 GUI\bin\Debug\RC4 GUI.exe.config
+H:\Documents\编程\VisualStudio\RC4 GUI\bin\Debug\RC4 GUI.exe
+H:\Documents\编程\VisualStudio\RC4 GUI\bin\Debug\RC4 GUI.pdb
+H:\Documents\编程\VisualStudio\RC4 GUI\bin\Debug\RC4 GUI.xml
+H:\Documents\编程\VisualStudio\RC4 GUI\bin\Debug\zh-MO\RC4 GUI.resources.dll
+H:\Documents\编程\VisualStudio\RC4 GUI\obj\Debug\RC4 GUI.vbprojAssemblyReference.cache
+H:\Documents\编程\VisualStudio\RC4 GUI\obj\Debug\RC4_GUI.Form1.resources
+H:\Documents\编程\VisualStudio\RC4 GUI\obj\Debug\RC4_GUI.Resources.resources
+H:\Documents\编程\VisualStudio\RC4 GUI\obj\Debug\RC4_GUI.TXTlog.resources
+H:\Documents\编程\VisualStudio\RC4 GUI\obj\Debug\RC4_GUI.Form1.zh-MO.resources
+H:\Documents\编程\VisualStudio\RC4 GUI\obj\Debug\RC4 GUI.vbproj.GenerateResource.cache
+H:\Documents\编程\VisualStudio\RC4 GUI\obj\Debug\RC4 GUI.vbproj.CoreCompileInputs.cache
+H:\Documents\编程\VisualStudio\RC4 GUI\obj\Debug\zh-MO\RC4 GUI.resources.dll
+H:\Documents\编程\VisualStudio\RC4 GUI\obj\Debug\RC4 GUI.exe
+H:\Documents\编程\VisualStudio\RC4 GUI\obj\Debug\RC4 GUI.xml
+H:\Documents\编程\VisualStudio\RC4 GUI\obj\Debug\RC4 GUI.pdb
